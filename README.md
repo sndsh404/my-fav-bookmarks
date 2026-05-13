@@ -15,6 +15,9 @@ A curated list of blogs and websites I keep coming back to: writing on graphics,
 | [norvig.com](https://www.norvig.com/) | Peter Norvig | Essays and projects from the co-author of AIMA and former Google research director |
 | [hynek.me/articles](https://hynek.me/articles/) | Hynek Schlawack | Deep Python and systems writing; maintainer of attrs, structlog, and more |
 | [lethain.com](https://lethain.com/) | Will Larson | Engineering leadership, staff+ engineering, and managing complex orgs |
+| [jvns.ca](https://jvns.ca/) | Julia Evans | Systems, networking, and debugging made joyful; creator of programming zines |
+| [zhenye-na.github.io/blog](https://zhenye-na.github.io/blog/) | Zhenye Na | ML research notes and paper walkthroughs |
+| [kqueue.org](https://kqueue.org/) | | Compilers, formal proofs, RISC-V, and geometry — eclectic and precise |
 | [manual.asimov.inc](https://manual.asimov.inc/v1/before-you-start) | Asimov | Open source documentation on building robots |
 
 ## Web & Frontend
@@ -44,6 +47,8 @@ A curated list of blogs and websites I keep coming back to: writing on graphics,
 | [waitbutwhy.com](https://waitbutwhy.com/) | Tim Urban | Long-form illustrated essays on AI, procrastination, society, and the nature of everything |
 | [benkuhn.net](https://www.benkuhn.net/) | Ben Kuhn | Sharp essays on engineering, startups, and how to think well |
 | [tenthousandmeters.com](https://tenthousandmeters.com/) | Victor Shepelev | Thoughtful writing on Python internals and software from first principles |
+| [twobithistory.org](https://twobithistory.org/) | Jacob Stopak | Well-researched history of computing — UNIX, the web, early languages |
+| [commodorified (essay)](https://commodorified.dreamwidth.org/216624.html) | commodorified | Single essential essay: "How To Bootstrap (almost) Any Relationship" |
 | [rixx.de/blogroll](https://rixx.de/blogroll/) | Tobias Kunze | A well-curated window into the indie web; great for discovering more good reading |
 | [bell-labs / Dennis Ritchie](https://www.nokia.com/bell-labs/about/dennis-m-ritchie/index.html) | Dennis M. Ritchie | Archive of work from the creator of C and co-creator of Unix |
 
