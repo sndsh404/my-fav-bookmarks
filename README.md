@@ -47,7 +47,7 @@ A curated list of blogs and websites I keep coming back to: writing on graphics,
 | [waitbutwhy.com](https://waitbutwhy.com/) | Tim Urban | Long-form illustrated essays on AI, procrastination, society, and the nature of everything |
 | [benkuhn.net](https://www.benkuhn.net/) | Ben Kuhn | Sharp essays on engineering, startups, and how to think well |
 | [tenthousandmeters.com](https://tenthousandmeters.com/) | Victor Shepelev | Thoughtful writing on Python internals and software from first principles |
-| [twobithistory.org](https://twobithistory.org/) | Jacob Stopak | Well-researched history of computing — UNIX, the web, early languages |
+| [twobithistory.org](https://twobithistory.org/) | Jacob Stopak | Well-researched history of computing - UNIX, the web, early languages |
 | [commodorified (essay)](https://commodorified.dreamwidth.org/216624.html) | commodorified | Single essential essay: "How To Bootstrap (almost) Any Relationship" |
 | [rixx.de/blogroll](https://rixx.de/blogroll/) | Tobias Kunze | A well-curated window into the indie web; great for discovering more good reading |
 | [bell-labs / Dennis Ritchie](https://www.nokia.com/bell-labs/about/dennis-m-ritchie/index.html) | Dennis M. Ritchie | Archive of work from the creator of C and co-creator of Unix |
