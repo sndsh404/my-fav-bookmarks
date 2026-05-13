@@ -1,11 +1,7 @@
 # Favorite Blogs & Websites
-
 A curated list of blogs and websites I keep coming back to: writing on graphics, systems, AI, design, and the web.
-
 ---
-
 ## Engineering & Research
-
 | Site | Author | Notes |
 |------|--------|-------|
 | [blog.ezyang.com](https://blog.ezyang.com/) ⭐ | Edward Z. Yang | My favorite - PyTorch internals, compilers, and ML systems with unusual depth |
@@ -16,10 +12,12 @@ A curated list of blogs and websites I keep coming back to: writing on graphics,
 | [thomasahle.com](https://thomasahle.com/) | Thomas Dybdahl Ahle | Algorithms, mathematics, and competitive programming |
 | [jack12xl.netlify.app](https://jack12xl.netlify.app/) | Jack Xu | Graphics and simulation |
 | [mitchellh.com/writing](https://mitchellh.com/writing) | Mitchell Hashimoto | Systems programming, terminals, and open source craft |
+| [norvig.com](https://www.norvig.com/) | Peter Norvig | Essays and projects from the co-author of AIMA and former Google research director |
+| [hynek.me/articles](https://hynek.me/articles/) | Hynek Schlawack | Deep Python and systems writing; maintainer of attrs, structlog, and more |
+| [lethain.com](https://lethain.com/) | Will Larson | Engineering leadership, staff+ engineering, and managing complex orgs |
 | [manual.asimov.inc](https://manual.asimov.inc/v1/before-you-start) | Asimov | Open source documentation on building robots |
 
 ## Web & Frontend
-
 | Site | Author | Notes |
 |------|--------|-------|
 | [addyosmani.com](https://addyosmani.com/) | Addy Osmani | Web performance, engineering leadership, and frontend craft |
@@ -30,7 +28,6 @@ A curated list of blogs and websites I keep coming back to: writing on graphics,
 | [blog.benoitvallon.com](https://blog.benoitvallon.com/) | Benoît Vallon | Practical JS tips, data structures, and sorting algorithms |
 
 ## Design, Art & Interaction
-
 | Site | Author | Notes |
 |------|--------|-------|
 | [worrydream.com](https://worrydream.com/) | Bret Victor | Foundational thinking on interactive media and humane software |
@@ -40,14 +37,15 @@ A curated list of blogs and websites I keep coming back to: writing on graphics,
 | [matthewtrent.me](https://matthewtrent.me/) | Matthew Trent | Design and creative work |
 
 ## Ideas & Essays
-
 | Site | Author | Notes |
 |------|--------|-------|
 | [blog.samaltman.com](https://blog.samaltman.com/) | Sam Altman | Startups, AI, and long-range thinking |
 | [darioamodei.com](https://www.darioamodei.com/) | Dario Amodei | Long-form essays on technology and its consequences |
 | [waitbutwhy.com](https://waitbutwhy.com/) | Tim Urban | Long-form illustrated essays on AI, procrastination, society, and the nature of everything |
+| [benkuhn.net](https://www.benkuhn.net/) | Ben Kuhn | Sharp essays on engineering, startups, and how to think well |
+| [tenthousandmeters.com](https://tenthousandmeters.com/) | Victor Shepelev | Thoughtful writing on Python internals and software from first principles |
+| [rixx.de/blogroll](https://rixx.de/blogroll/) | Tobias Kunze | A well-curated window into the indie web; great for discovering more good reading |
 | [bell-labs / Dennis Ritchie](https://www.nokia.com/bell-labs/about/dennis-m-ritchie/index.html) | Dennis M. Ritchie | Archive of work from the creator of C and co-creator of Unix |
 
 ---
-
-*Last updated April 2026*
+*Last updated May 2026*
