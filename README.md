@@ -4,7 +4,8 @@ A curated list of blogs and websites I keep coming back to: writing on graphics,
 ## Engineering & Research
 | Site | Author | Notes |
 |------|--------|-------|
-| [blog.ezyang.com](https://blog.ezyang.com/) | Edward Z. Yang | My favorite. PyTorch internals, compilers, ML systems |
+| [eugeneyan.com](https://eugeneyan.com/) | Eugene Yan | My favorite. fucking goat, as our interests match so much. applied ML, LLMs, RecSys, ML systems, evals, distributed systems, ML in production |
+| [blog.ezyang.com](https://blog.ezyang.com/) | Edward Z. Yang | PyTorch internals, compilers, ML systems |
 | [colah.github.io](https://colah.github.io/) | Christopher Olah | Deep learning with really good visuals |
 | [prafulladhariwal.com](https://prafulladhariwal.com/) | Prafulla Dhariwal | Key person behind diffusion models |
 | [artemzholus.github.io](https://artemzholus.github.io/) | Artem Zholus | ML research notes |
@@ -18,9 +19,11 @@ A curated list of blogs and websites I keep coming back to: writing on graphics,
 | [jvns.ca](https://jvns.ca/) | Julia Evans | Systems and debugging, makes programming zines |
 | [zhenye-na.github.io/blog](https://zhenye-na.github.io/blog/) | Zhenye Na | ML notes and paper summaries |
 | [kqueue.org](https://kqueue.org/) | | Compilers, formal proofs, RISC-V, geometry |
-| [littleosbook.github.io](https://littleosbook.github.io/) | Erik Helin and Adam Renberg | Free book on how to write an OS from scratch |
 | [arjunsreedharan.org](https://arjunsreedharan.org/) | Arjun Sreedharan | How kernels and compilers work |
 | [osblog.stephenmarz.com](https://osblog.stephenmarz.com/) | Stephen Marz | Writing an OS in Rust, step by step |
+| [timdettmers.com](https://timdettmers.com/) | Tim Dettmers | Quantization, efficient LLMs, GPU ML |
+| [lilianweng.github.io](https://lilianweng.github.io/) | Lilian Weng | Long-form deep dives on RL, LLMs, diffusion, hallucination |
+| [huyenchip.com/blog](https://huyenchip.com/blog/) | Chip Huyen | ML systems, AI engineering, MLOps |
 | [menlo.ai/blog](https://www.menlo.ai/blog) | Menlo AI | AI research and product writing |
 | [manual.asimov.inc](https://manual.asimov.inc/v1/before-you-start) | Asimov | Open source docs on building robots |
 
