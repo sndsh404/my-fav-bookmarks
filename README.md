@@ -1,6 +1,8 @@
 # Favorite Blogs & Websites
 A curated list of blogs and websites I keep coming back to: writing on graphics, systems, AI, design, and the web.
+
 ---
+
 ## Engineering & Research
 | Site | Author | Notes |
 |------|--------|-------|
@@ -58,6 +60,11 @@ A curated list of blogs and websites I keep coming back to: writing on graphics,
 | [commodorified (essay)](https://commodorified.dreamwidth.org/216624.html) | commodorified | One good essay: "How To Bootstrap (almost) Any Relationship" |
 | [rixx.de/blogroll](https://rixx.de/blogroll/) | Tobias Kunze | Good blogroll, useful for finding new sites |
 | [bell-labs / Dennis Ritchie](https://www.nokia.com/bell-labs/about/dennis-m-ritchie/index.html) | Dennis M. Ritchie | Archive from the creator of C and Unix |
+
+## YouTube
+| Playlist | Channel | Notes |
+|----------|---------|-------|
+| [MIT 6.824: Distributed Systems](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) | MIT / Robert Morris | Classic distributed systems lecture series, Spring 2020 |
 
 ---
 *Last updated May 2026*
