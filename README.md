@@ -62,9 +62,15 @@ A curated list of blogs and websites I keep coming back to: writing on graphics,
 | [bell-labs / Dennis Ritchie](https://www.nokia.com/bell-labs/about/dennis-m-ritchie/index.html) | Dennis M. Ritchie | Archive from the creator of C and Unix |
 
 ## YouTube
-| Playlist | Channel | Notes |
-|----------|---------|-------|
+| Video / Playlist | Channel | Notes |
+|-----------------|---------|-------|
 | [MIT 6.824: Distributed Systems](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) | MIT / Robert Morris | Classic distributed systems lecture series, Spring 2020 |
+| [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) | Andrej Karpathy | Full LLM training stack — pretraining, SFT, RL, RLHF; 3.5hrs |
+| [How do computers work? (from scratch)](https://www.youtube.com/watch?v=rl0jkP9kOMw) | | Bottom-up explainer, no prior knowledge needed |
+| [How To Make a Chess Engine](https://www.youtube.com/watch?v=QzS8HQ3dVWA) | | Deep-dive build of a chess engine from scratch |
+| [The worst programming language of all time](https://www.youtube.com/watch?v=7fGB-hjc2Gc) | | A tour of C++ pain points |
+| [Unknown — 5NgNicANyqM](https://www.youtube.com/watch?v=5NgNicANyqM) | | *(fill in title)* |
+| [Unknown — b7NnMZPNIXA](https://www.youtube.com/watch?v=b7NnMZPNIXA) | | *(fill in title)* |
 
 ---
 *Last updated May 2026*
