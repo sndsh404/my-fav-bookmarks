@@ -72,6 +72,7 @@ A curated list of blogs and websites I keep coming back to: writing on graphics,
 | [How To Make a Chess Engine](https://www.youtube.com/watch?v=QzS8HQ3dVWA) | dustmite | Deep-dive build of a chess engine from scratch |
 | [The worst programming language of all time](https://www.youtube.com/watch?v=7fGB-hjc2Gc) | Lazo Velko | A tour of C++ pain points |
 | [If you are ambitious (in tech) and in your 20s or 30s, watch this](https://www.youtube.com/watch?v=8iuIcnRnYAo) | Phillip Choi | Career advice for ambitious people in tech |
+| [Linux kernel developer writes a USB driver from scratch in 3h](https://www.youtube.com/watch?v=IXBC85SGC0Q) | Bits inside by Rene Rebe | Live coding a real kernel driver; great for low-level systems intuition |
 
 ---
 *Last updated May 2026*
