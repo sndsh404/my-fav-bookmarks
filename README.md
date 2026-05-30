@@ -28,6 +28,7 @@ A curated list of blogs and websites I keep coming back to: writing on graphics,
 | [huyenchip.com/blog](https://huyenchip.com/blog/) | Chip Huyen | ML systems, AI engineering, MLOps |
 | [menlo.ai/blog](https://www.menlo.ai/blog) | Menlo AI | AI research and product writing |
 | [manual.asimov.inc](https://manual.asimov.inc/v1/before-you-start) | Asimov | Open source docs on building robots |
+| [vladfeinberg.com](https://vladfeinberg.com/) | Vlad Feinberg | ML systems, LLM pretraining, optimization; sharp and to the point |
 
 ## Web & Frontend
 | Site | Author | Notes |
